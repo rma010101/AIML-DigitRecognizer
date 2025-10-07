@@ -104,7 +104,7 @@ Built with:
 
 ### Option 2: ZIP Archive
 
-- Compress `dist\DigitRecognizer.exe` into a ZIP file
+- Compress `DigitRecognizer.exe` into a ZIP file
 - Share the ZIP file
 - Recipients extract and run
 
